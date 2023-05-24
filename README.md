@@ -1676,55 +1676,6 @@ Header Authorization: Basic YWRtaW46YWRtaW4=
 
 ---
 
-<!-- backgroundImage: "linear-gradient(to bottom, #13aaed, #0801)" -->
-# Broadband and XGS-PON
-
----
-
-<!-- backgroundImage: "" -->
-<!-- footer: "YANG Primer" -->
-## Broadband Trends
-
-![](bbtrends.png)
-
----
-
-## Disaggregated, Cloud-Native and Open
-
-![](daapon.png)
-
----
-## Industry Target Architecture for Fixed Line SDN & VNF/PNF
-
-![](cloudco-with-baa.png)
-
----
-
-## BBF XGS-PON - OLT Combined and Separated NE Modes 
-
-![](olt-com-sep-ne-modes.png)
-
----
-
-## BBF XGS-PON - Relationship of xPON YANG Modules with Other Modules
-
-![](xPONmodels.png)
-
----
-
-## BBF XGS-PON - xPON Interfaces and Hardware Entities Relationships 
-
-![](xPONint-hw-erd.png)
-
----
-
-## BBF XGS-PON Separated NE Mode - YANG Schema Mount
-
-- Sperated NE Mode via BAA layer includes management function (MF)
-- MF  makes use of [RFC8528](https://www.rfc-editor.org/rfc/rfc8528.html) to represent multiple OLTs and ONUs under single structure
-
----
-
 ### YANG Schema Mount - NETCONF GET - OLT Example
 
 `.../network-topology:network-topology/topology=topology-netconf/node={volt-mf-id}/yang-ext:mount/ietf-netconf:get`
