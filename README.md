@@ -1722,62 +1722,62 @@ Header Authorization: Basic YWRtaW46YWRtaW4=
 ---
 
 <!-- backgroundImage: "linear-gradient(to bottom, #13aaed, #0801)" -->
-# SDNc with NETCONF & OLT Operations
+# SDNc with NETCONF & xNF Operations
 
 ---
 
 <!-- backgroundImage: "" -->
 <!-- footer: "YANG Primer" -->
 
-### OLT - Boot Sequence
+### xNF - Boot Sequence
 
 ![](olt-boot.png)
 
 ---
 
-### OLT - NETCONF Mount Operation
+### xNF - NETCONF Mount Operation
 
 ![](olt-netconf-mount.png)
 
 ---
 
-### OLT - NETCONF Edit Operation (1/5)
+### xNF - NETCONF Edit Operation (1/5)
 
 ![](olt-netconf-edit-1.png)
 
 ---
 
-### OLT - NETCONF Edit Operation (2/5)
+### xNF - NETCONF Edit Operation (2/5)
 
 ![](olt-netconf-edit-2.png)
 
 ---
 
-### OLT - NETCONF Edit Operation (3/5)
+### xNF - NETCONF Edit Operation (3/5)
 
 ![](olt-netconf-edit-3.png)
 
 ---
 
-### OLT - NETCONF Edit Operation (4/5)
+### xNF - NETCONF Edit Operation (4/5)
 
 ![](olt-netconf-edit-4.png)
 
 ---
 
-### OLT - NETCONF Edit Operation (5/5)
+### xNF - NETCONF Edit Operation (5/5)
 
 ![](olt-netconf-edit-5.png)
 
 ---
 
-### OLT - NETCONF Keep-Alive Operation
+### xNF - NETCONF Keep-Alive Operation
 
 ![](olt-netconf-keepalive.png)
 
 ---
 
-### OLT - NETCONF Unmount Operation
+### xNF - NETCONF Unmount Operation
 
 ![](olt-netconf-unmount.png)
 
